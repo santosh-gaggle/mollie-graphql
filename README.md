@@ -4,7 +4,7 @@ Add GraphQl support to Mollie Magento 2 module.
 
 ## Installation
 ```shell script
-composer require mooore/magento2-module-mollie-graph-ql
+composer require santosh-gaggle/mollie-graphql
 bin/magento setup:upgrade
 ```
 
